@@ -82,4 +82,4 @@ git commit -m 'started real-estate-listings.html'
 git push
 ```
 
-<p data-visibility="hidden">View <a href="https://learn.co/lessons/html-links" title="HTML Links">HTML Links</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML Links</p>
